@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
