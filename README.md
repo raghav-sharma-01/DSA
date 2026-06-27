@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raghav-sharma-01/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/raghav-sharma-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghav-sharma-01/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
