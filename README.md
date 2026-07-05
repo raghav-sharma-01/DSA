@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghav-sharma-01/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Binary Search
 |  |
 | ------- |
