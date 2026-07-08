@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/raghav-sharma-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghav-sharma-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Binary Search
 |  |
