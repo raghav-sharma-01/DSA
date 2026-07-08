@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghav-sharma-01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghav-sharma-01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
