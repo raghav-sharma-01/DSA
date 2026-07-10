@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/raghav-sharma-01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raghav-sharma-01/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/raghav-sharma-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghav-sharma-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/raghav-sharma-01/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghav-sharma-01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghav-sharma-01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
