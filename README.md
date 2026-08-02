@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/raghav-sharma-01/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/raghav-sharma-01/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/raghav-sharma-01/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/raghav-sharma-01/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raghav-sharma-01/DSA/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/raghav-sharma-01/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
