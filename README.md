@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghav-sharma-01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghav-sharma-01/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raghav-sharma-01/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raghav-sharma-01/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/raghav-sharma-01/DSA/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/raghav-sharma-01/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
+| [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
 | ------- |
