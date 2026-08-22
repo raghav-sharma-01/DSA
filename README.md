@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/raghav-sharma-01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/raghav-sharma-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/raghav-sharma-01/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghav-sharma-01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghav-sharma-01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/raghav-sharma-01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Binary Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raghav-sharma-01/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/raghav-sharma-01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghav-sharma-01/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/raghav-sharma-01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/raghav-sharma-01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghav-sharma-01/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -199,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raghav-sharma-01/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
