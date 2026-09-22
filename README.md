@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/raghav-sharma-01/DSA/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/raghav-sharma-01/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/raghav-sharma-01/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghav-sharma-01/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raghav-sharma-01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghav-sharma-01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/raghav-sharma-01/DSA/tree/master/0509-fibonacci-number) |
 ## Ternary Search
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raghav-sharma-01/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
