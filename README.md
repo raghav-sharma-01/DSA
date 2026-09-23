@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghav-sharma-01/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
 | [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghav-sharma-01/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/raghav-sharma-01/DSA/tree/master/0509-fibonacci-number) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raghav-sharma-01/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raghav-sharma-01/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
