@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/raghav-sharma-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raghav-sharma-01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghav-sharma-01/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/raghav-sharma-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raghav-sharma-01/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/raghav-sharma-01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/raghav-sharma-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raghav-sharma-01/DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/raghav-sharma-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/raghav-sharma-01/DSA/tree/master/0986-interval-list-intersections) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/raghav-sharma-01/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raghav-sharma-01/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0767-reorganize-string](https://github.com/raghav-sharma-01/DSA/tree/master/0767-reorganize-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/raghav-sharma-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raghav-sharma-01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
